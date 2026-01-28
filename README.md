@@ -1,7 +1,7 @@
 # Javier Manuel Martín Alonso
 
 **Independent Theoretical Physicist** | Asturias, Spain  
-📧 [jmmam@movistar.es](mailto:jmmam@movistar.es) | 🔗 [ORCID](https://orcid.org/0009-0007-4051-6414)
+📧 [jmma@movistar.es](mailto:jmmam@movistar.es) | 🔗 [ORCID] https://orcid.org/0009-0007-4051-6414
 
 ---
 
