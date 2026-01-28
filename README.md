@@ -27,7 +27,7 @@ Current work: Testing entanglement dominance in heavy-ion and e⁺e⁻ collision
   *AdS/CFT framework for bulk-boundary entanglement*
 
 **Repository:**
-- [Full publication list on Zenodo](https://zenodo.org/search?q=0009-0007-4051-6414&l=list&p=1&s=10&sort=bestmatch)
+- [Publications on Zenodo via ORCID](https://orcid.org/0009-0007-4051-6414) 
 
 ---
 
