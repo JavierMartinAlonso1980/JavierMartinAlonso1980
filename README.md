@@ -36,7 +36,7 @@ Current work: Testing entanglement dominance in heavy-ion and e⁺e⁻ collision
 | Repository | Description | Status |
 |-----------|-------------|--------|
 | [Entanglement-Dominance-TMST](https://github.com/JavierMartinAlonso1980/entanglement-dominance-tmst) | Simulation framework for entanglement phase diagrams in ALICE/Belle II data | Active |
-| [TDHCF-Time-Mapping](https://github.com/JavierMartinAlonso1980/TDHCF) | Holographic time mapping protocol (v → T → τ) | In development |
+| [TDHCF-Time-Mapping](https://github.com/JavierMartinAlonso1980/TDHCF-Time-Mapping) | Holographic time mapping protocol (v → T → τ) | Active |
 
 ---
 
