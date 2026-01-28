@@ -42,8 +42,10 @@ Current work: Testing entanglement dominance in heavy-ion and e⁺e⁻ collision
 
 ## 🛠️ Technical Stack
 
-**Languages:** Python  
-**Repository:** Git, Zenodo  
+**Languages:** Python
+
+**Repository:** Git, Zenodo
+
 **Focus Areas:** Numerical relativity, QFT simulations, data analysis
 
 ---
