@@ -63,7 +63,10 @@ Open to discussions via GitHub Issues or email.
 
 ## 📊 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=JavierMartinAlonso1980&show_icons=true&theme=radical)
+![Javier's GitHub stats](https://github-readme-stats.vercel.app/api?username=TU-USERNAME&show_icons=true&theme=dark&hide_border=true&hide=issues,contribs&count_private=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TU-USERNAME&layout=compact&theme=dark&hide_border=true&langs_count=5)](https://github.com/TU-USERNAME)
+
 
 ---
 
