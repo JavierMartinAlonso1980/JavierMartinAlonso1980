@@ -42,7 +42,7 @@ Current work: Testing entanglement dominance in heavy-ion and e⁺e⁻ collision
 
 ## 🛠️ Technical Stack
 
-**Languages:** Python
+**Languages:** Python, LaTeX
 
 **Repository:** Github, Zenodo
 
