@@ -63,9 +63,12 @@ Open to discussions via GitHub Issues or email.
 
 ## 📊 GitHub Stats
 
-![Javier's GitHub stats](https://github-readme-stats.vercel.app/api?username=JavierMartinAlonso1980&show_icons=true&theme=dark&hide_border=true&hide=issues,contribs&count_private=true)
+[![GitHub Streak](https://streak-stats.demolab.com?user=JavierMartinAlonso1980&theme=dark&hide_border=true&locale=es)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JavierMartinAlonso1980&layout=compact&theme=dark&hide_border=true&langs_count=5)](https://github.com/TU-USERNAME)
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JavierMartinAlonso1980&theme=monokai)
+
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JavierMartinAlonso1980&theme=monokai)
+
 
 
 ---
