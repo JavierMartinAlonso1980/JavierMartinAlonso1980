@@ -20,6 +20,9 @@ Current work: Testing entanglement dominance in heavy-ion and e⁺e⁻ collision
 ## 📄 Publications
 
 **Preprints**
+- [**Topological Vortex Superradiance and TMST**](https://doi.org/10.5281/zenodo.18207031) (2026)  
+  *A QCD Framework for Intrinsic Charm and Proton Structure*
+  
 - [**Entanglement Dominance in the Zero-Temperature Limit**](https://doi.org/10.5281/zenodo.18353640) (2026)  
   *Thesis on thermal-to-quantum phase transitions in QGP*
   
