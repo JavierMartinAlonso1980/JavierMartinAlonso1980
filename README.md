@@ -37,8 +37,7 @@ Current work: Testing entanglement dominance in heavy-ion and e⁺e⁻ collision
 |-----------|-------------|--------|
 | [Entanglement-Dominance-TMST](https://github.com/JavierMartinAlonso1980/entanglement-dominance-tmst) | Simulation framework for entanglement phase diagrams in ALICE/Belle II data | Active |
 | [TDHCF-Time-Mapping](https://github.com/JavierMartinAlonso1980/TDHCF-Time-Mapping) | Holographic time mapping protocol (v → T → τ) | Active |
-| [QCD Vortex Entanglement Framework](https://github.com/JavierMartinAlonso1980/qcd-vortex-entanglement) | Framework for simulating center vortices in QCD, entanglement analysis, and validation using Belle II and IBM Quantum.
-Status: Under active development (early research prototype). Some tests and certain features are experimental. | In development |
+| [QCD Vortex Entanglement Framework](https://github.com/JavierMartinAlonso1980/qcd-vortex-entanglement) | Framework for simulating center vortices in QCD, entanglement analysis, and validation using Belle II and IBM Quantum. | In development |
 ---
 
 ## 🛠️ Technical Stack
