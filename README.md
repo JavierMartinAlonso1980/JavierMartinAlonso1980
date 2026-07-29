@@ -68,7 +68,7 @@ Open to discussions via GitHub Issues or email.
 
 [![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=JavierMartinAlonso1980&theme=dark&hide_border=true&locale=es)](https://git.io/streak-stats)
 
-![Snake animation](https://raw.githubusercontent.com/JavierMartinAlonso1980/JavierMartinAlonso1980/output/github-snake-dark.svg)
+![Snake](https://raw.githubusercontent.com/JavierMartinAlonso1980/JavierMartinAlonso1980/output/github-snake.svg)
 
 ![Lenguajes Top](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=JavierMartinAlonso1980&layout=compact&theme=dark&hide_border=true&langs_count=8)
 
