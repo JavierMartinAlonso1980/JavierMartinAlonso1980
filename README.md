@@ -68,8 +68,7 @@ Open to discussions via GitHub Issues or email.
 
 [![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=JavierMartinAlonso1980&theme=dark&hide_border=true&locale=es)](https://git.io/streak-stats)
 
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=JavierMartinAlonso1980&show_icons=true&theme=dark&hide_border=true&locale=es&count_private=true&include_all_commits=true)
-![Lenguajes Top](https://github-readme-stats.vercel.app/api/top-langs/?username=JavierMartinAlonso1980&layout=compact&theme=dark&hide_border=true&locale=es&langs_count=8)
+![Gráfico de Actividad](https://github-readme-activity-graph.vercel.app/graph?username=JavierMartinAlonso1980&theme=github-dark&hide_border=true&area=true)
 
 
 
