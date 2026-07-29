@@ -12,6 +12,8 @@ jobs:
   generate:
     runs-on: ubuntu-latest
     steps:
+      - uses: actions/checkout@v4
+
       - uses: Platane/snk@v3
         with:
           github_user_name: JavierMartinAlonso1980
@@ -19,13 +21,7 @@ jobs:
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
 
-      - name: Push to output branch
-        run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
-          git checkout --orphan output-branch
-          git --git-dir=.git --work-tree=dist add -A
-          git commit -m "Update snake animation"
-          git push -f origin HEAD:output
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - uses: JamesIves/github-pages-deploy-action@v4
+        with:
+          branch: output
+          folder: dist
