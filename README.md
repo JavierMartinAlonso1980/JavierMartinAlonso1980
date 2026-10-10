@@ -64,13 +64,22 @@ Open to discussions via GitHub Issues or email.
 
 ---
 
-## 📊 GitHub Stats
+## Latest releases
+<!-- releases:start -->
+- No releases yet.
+<!-- releases:end -->
 
-[![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=JavierMartinAlonso1980&theme=dark&hide_border=true&locale=es)](https://git.io/streak-stats)
+## Cite my work
+Each repository has a `CITATION.cff` and a Zenodo DOI. Use GitHub's "Cite this repository" button or the DOI badge in each README.
 
-![Snake](https://raw.githubusercontent.com/JavierMartinAlonso1980/JavierMartinAlonso1980/output/github-snake.svg)
+## Where feedback helps most
+- Whether the brane–bulk junction results duplicate known literature (pointers welcome).
+- Interpretation of the emitter in outgoing Vaidya (white-hole-like vs. evaporation with ingoing negative flux near the horizon).
+- Stress tests for first-passage rate inference with importance weights.
 
-![Lenguajes Top](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=JavierMartinAlonso1980&layout=compact&theme=dark&hide_border=true&langs_count=8)
+*Open an issue on the relevant repository, or write to me.*
+
+
 
 
 ---
