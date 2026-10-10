@@ -64,25 +64,5 @@ Open to discussions via GitHub Issues or email.
 
 ---
 
-## Latest releases
-<!-- releases:start -->
-- No releases yet.
-<!-- releases:end -->
-
-## Cite my work
-Each repository has a `CITATION.cff` and a Zenodo DOI. Use GitHub's "Cite this repository" button or the DOI badge in each README.
-
-## Where feedback helps most
-- Whether the brane–bulk junction results duplicate known literature (pointers welcome).
-- Interpretation of the emitter in outgoing Vaidya (white-hole-like vs. evaporation with ingoing negative flux near the horizon).
-- Stress tests for first-passage rate inference with importance weights.
-
-*Open an issue on the relevant repository, or write to me.*
-
-
-
-
----
-
 *"Science advances when unconventional questions meet rigorous methods."*
 
